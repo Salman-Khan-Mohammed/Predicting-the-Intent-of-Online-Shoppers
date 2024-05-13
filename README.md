@@ -1,0 +1,3 @@
+# Predicting-the-Intent-of-Online-Shoppers
+
+This project aims to use the information customers may leave in the form of the trace of browsing history data or user information when they visit an online shopping site. With the help of this information, the project aims to predict online shoppers' purchasing intention by using clickstream and session information data. The project aims to create a machine learning model based on this information to predict customer's purchasing intention. The Objective of the project is to build a Machine Learning Model that can predict customers purchase intention as accurately as possible.
